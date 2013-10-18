@@ -1,5 +1,7 @@
 TEACHER'S DOOR
+
 by Garrett Dash Nelson
+
 http://people.matinic.us/garrett/
 
 =============
