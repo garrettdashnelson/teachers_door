@@ -10,6 +10,10 @@ A simple PHP/MySQL system to manage office hour signups for teachers.
 
 =============
 
+Live demo at: http://people.matinic.us/garrett/teaching/officehours.php
+
+=============
+
 How-To:
 
 1. Have a server running PHP and MySQL.
